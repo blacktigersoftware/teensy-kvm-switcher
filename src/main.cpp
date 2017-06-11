@@ -1,7 +1,7 @@
 /*
 MIT License
 
-Copyright (c) 2071 Kenneth S. Davis
+Copyright (c) 2017 Kenneth S. Davis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -40,7 +40,7 @@ the 'USE_HID' option (ex: -DUSE_HID).  I could not get the 'USE_KEYBOARDONLY'
 to work, but USE_HID works fine enough.
 
 The buttons have PULL-UPS on the digital pin and I switch GROUND.  The LED pin
-on the otherhand provide power when turned on. 
+on the otherhand provide power when turned on.
 
 */
 
